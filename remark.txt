@@ -1,0 +1,3 @@
+jQuery file upload Demo 地址：https://blueimp.github.io/jQuery-File-Upload/
+jquery file upload 下载   地址：https://github.com/blueimp/jQuery-File-Upload/tags
+jquery file upload API    地址：https://github.com/blueimp/jQuery-File-Upload/wiki/API
